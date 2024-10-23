@@ -21,7 +21,7 @@ Before running the notebook, you need to modify 2 environment variables.
 Below is a list of possible filter_value options:
 
 ```python
-filter_value = "http://localhost:8008/"      # katsu
+filter_value = "http://localhost:8008/"         # katsu
 filter_value = "http://localhost:1236/"         # query
 filter_value = "http://localhost:4232/"         # federation
 filter_value = "http://localhost:3333/"         # htsget
